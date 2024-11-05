@@ -73,6 +73,12 @@ p{
     border-radius: 4px;
 }
 
+img#lan{
+    margin-top: ;
+    display: inline-block;
+    width: 200px;
+}
+
 /* Font Sourcing */
 @font-face {
   font-family: "AlteHaas";
